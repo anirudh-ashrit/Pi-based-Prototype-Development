@@ -1,2 +1,2 @@
-# Prototype-Development-using-LSM303-ADC-and-Stepper-Motor-on-Raspberry-Pi-4
+# LSM Sensor Integration with ADC and Motor Drive Testing on Pie 4
 A NEMA stepper motor's rotation speed is controlled by altering duty cycle of the ADC inputs done through a potentiometer. The changes are captured by LSM303 accelerometer and magnetometer sensor. Project is designed using a Raspberry Pi 4 board and PWM based motor driver. Data validation and efficiency are calculated by implementing FFT using power spectrum and by satisfying Nyquist criteria (Fs >= 2Fm).
